@@ -21,6 +21,9 @@
 
 Modification du fichier :
 
+<img width="846" height="110" alt="image" src="https://github.com/user-attachments/assets/7dfb006b-c4b6-4a3c-b046-30e5f5ed18a7" />
+
+
 <img width="571" height="69" alt="Screenshot 2026-09-02 150246" src="https://github.com/user-attachments/assets/9dc6d320-12f9-45cc-a085-28659496f76d" />
 
 

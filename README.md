@@ -1,6 +1,9 @@
 # Résolution d’un conflit détecté sur Git
 
  1.Detection du conflit
+
+ <img width="950" height="374" alt="resolution du conflit" src="https://github.com/user-attachments/assets/a7860100-c1ac-4646-b5c8-1c7e3ba7c3c3" />
+
  
 <img width="613" height="470" alt="conflit terminal" src="https://github.com/user-attachments/assets/1f31c258-1238-4fe2-80d5-5ba1138d3255" />
 

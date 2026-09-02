@@ -5,9 +5,6 @@
 <img width="613" height="470" alt="conflit terminal" src="https://github.com/user-attachments/assets/1f31c258-1238-4fe2-80d5-5ba1138d3255" />
 
 
-<img width="686" height="356" alt="Screenshot 2026-09-02 140604" src="https://github.com/user-attachments/assets/c3649c60-5a42-47b4-9a0b-37513f1f3cd0" />
-
-
 2. Ouverture du fichier en conflit et correction mannuelle
 
    

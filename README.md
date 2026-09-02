@@ -14,3 +14,22 @@
 4. Validation de la résolution
 
 <img width="500" height="434" alt="image" src="https://github.com/user-attachments/assets/5951ab63-0ad9-42b2-96f2-cba78e26a6ef" />
+
+# Avant squash :
+
+<img width="690" height="299" alt="Screenshot 2026-09-02 145933" src="https://github.com/user-attachments/assets/461ce90b-b17b-43fa-8aa8-3a5fd81035bb" />
+
+Modification du fichier :
+
+<img width="571" height="69" alt="Screenshot 2026-09-02 150246" src="https://github.com/user-attachments/assets/9dc6d320-12f9-45cc-a085-28659496f76d" />
+
+
+Apres squash :
+
+
+<img width="695" height="356" alt="Screenshot 2026-09-02 151200" src="https://github.com/user-attachments/assets/be511f76-6b29-4147-b1cc-eea0e6082f48" />
+
+
+
+
+
